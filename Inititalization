@@ -1,0 +1,10 @@
+struct list * init(int a)  // а- значение первого узла
+{
+  struct list *lst;
+  // выделение памяти под корень списка
+  lst = (struct list*)malloc(sizeof(struct list));
+  lst->field = a;
+  lst->next = NULL; // указатель на следующий узел
+  lst->prev = NULL; // указатель на предыдущий узел
+  return(lst);
+}
