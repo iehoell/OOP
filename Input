@@ -1,0 +1,9 @@
+void listprint(list *lst)
+{
+  struct list *p;
+  p = lst;
+  do {
+    printf("%d ", p->field); // вывод значения элемента p
+    p = p->next; // переход к следующему узлу
+  } while (p != NULL); // условие окончания обхода
+}
