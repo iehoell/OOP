@@ -1,0 +1,11 @@
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.AssemblyReference.cache
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.SuggestedBindingRedirects.cache
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.Form1.resources
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.Properties.Resources.resources
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.GenerateResource.cache
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.CoreCompileInputs.cache
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\bin\Debug\Lab8_2.exe.config
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\bin\Debug\Lab8_2.exe
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\bin\Debug\Lab8_2.pdb
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.exe
+C:\BOBA\программы\C#\Lab8_2\Lab8_2\obj\Debug\Lab8_2.pdb
